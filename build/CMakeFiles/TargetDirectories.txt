@@ -1,0 +1,3 @@
+/home/jason/Udacity/CppND-Capstone-FallingBlocks-Game/build/CMakeFiles/rebuild_cache.dir
+/home/jason/Udacity/CppND-Capstone-FallingBlocks-Game/build/CMakeFiles/edit_cache.dir
+/home/jason/Udacity/CppND-Capstone-FallingBlocks-Game/build/CMakeFiles/FallingBlocksGame.dir
