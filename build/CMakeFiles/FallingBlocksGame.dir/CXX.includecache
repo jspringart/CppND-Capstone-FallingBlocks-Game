@@ -6,17 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/jason/Udacity/CppND-Capstone-FallingBlocks-Game/src/board.cpp
-board.h
-/home/jason/Udacity/CppND-Capstone-FallingBlocks-Game/src/board.h
-iostream
--
-
-/home/jason/Udacity/CppND-Capstone-FallingBlocks-Game/src/board.h
-vector
--
-random
--
+/home/jason/Udacity/CppND-Capstone-FallingBlocks-Game/src/piece.cpp
 piece.h
 /home/jason/Udacity/CppND-Capstone-FallingBlocks-Game/src/piece.h
 

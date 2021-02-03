@@ -4,10 +4,6 @@
 #include <SDL2/SDL.h>
 #include "piece.h"
 
-Game::Game(std::size_t grid_width, std::size_t grid_height)
-{    
-}
-
 void Game::Run(Controller const &controller, Renderer &renderer, std::size_t target_frame_duration)
 {
     Uint32 title_timestamp = SDL_GetTicks();

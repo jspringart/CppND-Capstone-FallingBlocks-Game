@@ -1,8 +1,8 @@
 #include "piece.h"
 
 Piece::Piece(int piece)
+    : _piece(piece)
 {
-    _piece = piece;
     _position = 0;
     SelectPiece();   
 }
